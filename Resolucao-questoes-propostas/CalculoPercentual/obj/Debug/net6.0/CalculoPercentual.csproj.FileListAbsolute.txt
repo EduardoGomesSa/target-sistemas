@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\bin\Debug\net6.0\CalculoPercentual.exe
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\bin\Debug\net6.0\CalculoPercentual.deps.json
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\bin\Debug\net6.0\CalculoPercentual.runtimeconfig.json
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\bin\Debug\net6.0\CalculoPercentual.dll
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\bin\Debug\net6.0\CalculoPercentual.pdb
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.AssemblyInfo.cs
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.dll
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\refint\CalculoPercentual.dll
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.pdb
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\CalculoPercentual.genruntimeconfig.cache
+C:\Users\eduar\source\repos\TargetSistemas\CalculoPercentual\obj\Debug\net6.0\ref\CalculoPercentual.dll

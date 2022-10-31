@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\bin\Debug\net6.0\InverterString.exe
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\bin\Debug\net6.0\InverterString.deps.json
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\bin\Debug\net6.0\InverterString.runtimeconfig.json
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\bin\Debug\net6.0\InverterString.dll
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\bin\Debug\net6.0\InverterString.pdb
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.AssemblyInfo.cs
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.dll
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\refint\InverterString.dll
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.pdb
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\InverterString.genruntimeconfig.cache
+C:\Users\eduar\source\repos\TargetSistemas\InverterString\obj\Debug\net6.0\ref\InverterString.dll
